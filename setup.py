@@ -24,7 +24,7 @@ setup(
     ],
     extras_require={
         "lint": [
-            "black==22.3.0",
+            "black==23.12.1",
             "pylint==2.13.4",
         ],
         "test": [
